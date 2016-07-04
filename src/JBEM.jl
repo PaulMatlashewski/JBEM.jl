@@ -1,5 +1,5 @@
 module JBEM
 
-# package code goes here
+include("BEMMesh.jl")
 
 end # module
